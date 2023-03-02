@@ -1,6 +1,5 @@
 <?php
 
-die("asd");
 function add_theme_scripts()
 {
     // style.css
