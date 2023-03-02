@@ -1,0 +1,19 @@
+/*
+Theme Name: KodAhenk
+Version: 0.1
+Text Domain: kodahenk
+*/
+
+.card-body p {
+  margin: 0 !important;
+}
+
+pre {
+  font-size: 0.8rem !important;
+}
+
+@media (max-width: 991.98px) {
+  .post-content {
+    font-size: 0.875rem !important;
+  }
+}
